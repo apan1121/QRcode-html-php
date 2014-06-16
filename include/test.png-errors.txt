@@ -1,0 +1,1564 @@
+2014-05-21 00:16:19: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:18:19: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:30:02: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:30:08: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:30:12: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:32:02: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:32:32: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:32:38: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:32:47: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:33:04: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:33:07: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_21_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_21_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_21_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_21_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_21_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_21_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_21_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_21_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:33:36: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:33:43: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:33:48: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:33:53: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:34:44: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 00:34:44: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:45:54: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:46:34: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:51:19: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_37_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_37_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_37_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_37_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_37_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_37_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_37_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_37_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:55:11: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:56:47: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:57:05: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:57:28: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:59:00: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:59:29: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 01:59:59: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:00:00: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:00:14: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:01:01: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:12:32: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_12.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_65_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_65_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_65_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_65_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_65_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_65_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_65_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_65_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:13:13: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:49:30: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:57:31: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-21 02:57:40: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-22 01:12:16: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-22 01:21:59: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-22 01:26:36: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-22 01:27:44: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_29_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_29_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_29_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_29_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_29_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_29_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_29_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_29_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-05-22 01:37:43: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_25_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_25_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_25_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_25_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_25_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_25_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_25_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_25_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-06-16 08:42:02: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_41_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_41_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_41_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_41_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_41_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_41_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_41_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_41_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-06-16 08:43:27: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_41_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_41_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_41_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_41_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_41_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_41_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_41_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_41_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-06-16 08:43:57: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_41_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_41_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_41_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_41_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_41_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_41_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_41_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_41_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-06-16 08:45:29: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_41_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_41_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_41_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_41_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_41_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_41_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_41_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_41_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-06-16 08:46:30: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_41_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_41_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_41_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_41_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_41_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_41_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_41_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_41_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+2014-06-16 08:48:05: <br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/frame_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_0/mask_41_0.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_1/mask_41_1.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_2/mask_41_2.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_3/mask_41_3.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_4/mask_41_4.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_5/mask_41_5.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_6/mask_41_6.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/cache/mask_7/mask_41_7.dat): failed to open stream: No such file or directory in <b>/Users/apan1121/Documents/Web/Kinoot/HomeBase/Test/qrtestphp/include/qrmask.php</b> on line <b>155</b><br />
